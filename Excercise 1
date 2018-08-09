@@ -4,8 +4,10 @@ Tm=12+1;
 Tb=12;
 Tr=1
 
-  for i=1:30
+  for i=1:31
     Tk(i)=Tm+Tb/(10*Tr);
   end
-end
 
+
+plot (Tm,Tk, "--")
+end
