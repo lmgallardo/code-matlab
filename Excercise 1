@@ -1,0 +1,11 @@
+function depth(Tm, Tb, Tr)
+
+Tm=12+1;
+Tb=12;
+Tr=1
+
+  for i=1:30
+    Tk(i)=Tm+Tb/(10*Tr);
+  end
+end
+
