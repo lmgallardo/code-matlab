@@ -1,2 +1,2 @@
 # code-matlab
-for geothermal
+Code interface for geothermal calculations using matlab
